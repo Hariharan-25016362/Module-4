@@ -1,4 +1,4 @@
-# EX-01-Classes and Objects in Python: Calculate the Area of a Circle
+# EX-01-Classes and Objects in Python- Calculate the Area of a Circle
 
 ## 🎯 Aim
 To write a Python program that calculates the **area of a circle** based on the radius provided by the user. This program uses a class named `cse` and a method `mech` to perform the calculation.
@@ -31,7 +31,7 @@ Thus,the program has been executed sucessfully.
 ```
 
 
-## EX-02-Dictionary Operations in Python: Merging Two Dictionaries
+## EX-02-Dictionary Operations in Python- Merging Two Dictionaries
 
 ## 🎯 Aim
 To write a Python program that merges **two dictionaries** and combines their key-value pairs.
@@ -114,7 +114,7 @@ Thus,the program has been executed sucessfully.
 ```
 
 
-# EX-04-Exception Handling in Python: Avoiding Index Errors
+# EX-04-Exception Handling in Python- Avoiding Index Errors
 
 ## 🎯 Aim
 To write a Python program that handles an **IndexError** when trying to access an element beyond the available range of a list.
@@ -145,7 +145,7 @@ Thus,the program has been executed sucessfully.
 ```
 
 
-# EX-05-File Handling in Python: Count Lines Not Starting with 'T'
+# EX-05-File Handling in Python- Count Lines Not Starting with 'T'
 
 ## 🎯 Aim
 To write a Python program that counts the number of lines in a text file `story.txt` that do **not** start with the alphabet `'T'`.
