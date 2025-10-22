@@ -106,7 +106,7 @@ print("Sorted by values:", sorted_by_values)
 ```
 
 ## Sample Output
-![alt text](image-2.png)
+![alt text](<Screenshot 2025-10-21 000924.png>)
 
 ## Result
 ```
